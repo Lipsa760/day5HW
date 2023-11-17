@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/day5HW/static/css/main.191904ff.css",
+    "main.js": "/day5HW/static/js/main.d32b0ab2.js",
+    "index.html": "/day5HW/index.html",
+    "main.191904ff.css.map": "/day5HW/static/css/main.191904ff.css.map",
+    "main.d32b0ab2.js.map": "/day5HW/static/js/main.d32b0ab2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.191904ff.css",
+    "static/js/main.d32b0ab2.js"
+  ]
+}
